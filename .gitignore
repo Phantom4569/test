@@ -48,6 +48,8 @@ ExportedObj/
 *.VC.db
 
 # Unity3D generated meta files
+*.meta
+*.unity.meta
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
@@ -70,3 +72,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#MacOS
+*.DS_Store
+
+# Projects
+HomeWorks/Library
+HomeWorks/Logs
+HomeWorks/Packages
+HomeWorks/ProjectSettings
+HomeWorks/Temp
+HomeWorks/UserSettings
