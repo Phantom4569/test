@@ -76,10 +76,4 @@ crashlytics-build.properties
 #MacOS
 *.DS_Store
 
-# Projects
-HomeWorks/Library
-HomeWorks/Logs
-HomeWorks/Packages
-HomeWorks/ProjectSettings
-HomeWorks/Temp
-HomeWorks/UserSettings
+
